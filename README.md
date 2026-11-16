@@ -52,9 +52,9 @@ _Collision detection, distance query, and proximity query libraries. See also [C
 * [JitterPhysics](https://github.com/mattleibow/jitterphysics) - C# rigid body physics engine with collision detection support. [⭐ 47](https://github.com/mattleibow/jitterphysics) · last commit 2021
 * OZCollide - Legacy collision detection library. [⭐ 4](https://github.com/jslee02/OZCollide) · last commit 2017
 * [ColDet](https://sourceforge.net/projects/coldet/) - 3D Collision Detection.
-* [GIMPACT](https://gimpact.sourceforge.net/) - Tools for geometry processing and collision detection.
+* [GIMPACT](http://web.archive.org/web/20261020000622/https://gimpact.sourceforge.net/) - Tools for geometry processing and collision detection.
 * [OPCODE](http://www.codercorner.com/Opcode.htm) - Optimized Collision Detection.
-* [SOLID](https://solid.sourceforge.net/) - Collision detection of 3D objects undergoing rigid motion and deformation.
+* [SOLID](http://web.archive.org/web/20261025041215/https://solid.sourceforge.net/) - Collision detection of 3D objects undergoing rigid motion and deformation.
 
 </details>
 
@@ -134,7 +134,7 @@ _Research papers on collision detection, distance and proximity queries, and sup
 #### Survey
 
 * Collision Detection: A Survey (2007), S. Kockara et al. [[pdf](https://pdfs.semanticscholar.org/250e/296b4b4c1b7ac0229e57d6638fe81188121e.pdf)]
-* 3D collision detection: a survey (2001), P. Jiménez et al. [[pdf](https://users.soe.ucsc.edu/~pang/161/w06/notes/jtt01.pdf)]
+* 3D collision detection: a survey (2001), P. Jiménez et al. [[pdf](http://web.archive.org/web/20251208222522/https://users.soe.ucsc.edu/~pang/161/w06/notes/jtt01.pdf)]
 
 ## [Books](#contents)
 
