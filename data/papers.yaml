@@ -187,5 +187,5 @@
 - name: '3D collision detection: a survey (2001), P. Jiménez et al.'
   links:
   - label: pdf
-    url: https://users.soe.ucsc.edu/~pang/161/w06/notes/jtt01.pdf
+    url: http://web.archive.org/web/20251208222522/https://users.soe.ucsc.edu/~pang/161/w06/notes/jtt01.pdf
   _subsection: Survey

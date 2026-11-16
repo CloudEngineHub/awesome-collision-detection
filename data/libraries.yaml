@@ -447,7 +447,7 @@
   description: 3D Collision Detection.
   _subsection: Inactive
 - name: GIMPACT
-  url: https://gimpact.sourceforge.net/
+  url: http://web.archive.org/web/20261020000622/https://gimpact.sourceforge.net/
   description: Tools for geometry processing and collision detection.
   _subsection: Inactive
 - name: OPCODE
@@ -465,6 +465,6 @@
     license: LGPL-2.1
     language: C++
 - name: SOLID
-  url: https://solid.sourceforge.net/
+  url: http://web.archive.org/web/20261025041215/https://solid.sourceforge.net/
   description: Collision detection of 3D objects undergoing rigid motion and deformation.
   _subsection: Inactive
