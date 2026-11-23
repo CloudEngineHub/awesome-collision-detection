@@ -48,14 +48,14 @@
   - label: pdf
     url: https://hal.inria.fr/inria-00072100/document
   - label: code
-    url: https://github.com/CGAL/cgal/blob/076c982dbf37cc244206fd7962e73360fb17ea47/Intersections_3/include/CGAL/Triangle_3_Triangle_3_do_intersect.h
+    url: http://web.archive.org/web/20251208222512/https://github.com/CGAL/cgal/blob/076c982dbf37cc244206fd7962e73360fb17ea47/Intersections_3/include/CGAL/Triangle_3_Triangle_3_do_intersect.h
   _subsection: Triangle-triangle Test
 - name: A Fast Triangle-Triangle Intersecion Test (1997), T. Muller.
   links:
   - label: pdf
     url: http://web.stanford.edu/class/cs277/resources/papers/Moller1997b.pdf
   - label: code
-    url: https://github.com/erich666/jgt-code/blob/master/Volume_02/Number_2/Moller1997b/tritri_isectline.c
+    url: http://web.archive.org/web/20251208222513/https://github.com/erich666/jgt-code/blob/master/Volume_02/Number_2/Moller1997b/tritri_isectline.c
   _subsection: Triangle-triangle Test
 - name: Robust contact generation for robot simulation with unstructured meshes (2013), K. Hauser.
   links:
@@ -187,5 +187,5 @@
 - name: '3D collision detection: a survey (2001), P. Jiménez et al.'
   links:
   - label: pdf
-    url: https://users.soe.ucsc.edu/~pang/161/w06/notes/jtt01.pdf
+    url: http://web.archive.org/web/20251208222522/https://users.soe.ucsc.edu/~pang/161/w06/notes/jtt01.pdf
   _subsection: Survey

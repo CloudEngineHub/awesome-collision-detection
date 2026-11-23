@@ -72,7 +72,7 @@ A companion to the main [Awesome Collision Detection](README.md) list, providing
 
 ## [Contributing](#comparisons)
 
-Contributions are very welcome! Please read the [contribution guidelines](https://github.com/jslee02/awesome-collision-detection/blob/master/CONTRIBUTING.md) first. Also, please feel free to report any error.
+Contributions are very welcome! Please read the [contribution guidelines](http://web.archive.org/web/20251208222531/https://github.com/jslee02/awesome-collision-detection/blob/master/CONTRIBUTING.md) first. Also, please feel free to report any error.
 
 ## [License](#comparisons)
 
